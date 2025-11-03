@@ -1,3 +1,9 @@
 res://lessons/ship.tscn
 res://addons/gdpractice/assets/theme.tres
+res://practices/L2.P1.bullet/bullet.gd
+res://practices/L2.P1.bullet/bullet.tscn
+res://practices/L2.P1.bullet/background.tscn
 res://lessons/ship.gd
+res://space_level.tscn
+res://assets/ship/main_thruster/thruster_material.tres
+res://assets/background/space_material.tres
